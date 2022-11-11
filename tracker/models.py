@@ -1,4 +1,3 @@
-from select import KQ_FILTER_AIO
 from django.db import models
 from django.conf import settings
 from django.utils import timezone
